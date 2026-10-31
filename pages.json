@@ -1,0 +1,102 @@
+{
+	"pages": [
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "AI血缘 - 数据舱",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/archive/archive",
+			"style": {
+				"navigationBarTitleText": "学习档案",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/gallery/gallery",
+			"style": {
+				"navigationBarTitleText": "AI作品展馆",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationBarTitleText": "个人档案",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/lineage/lineage",
+			"style": {
+				"navigationBarTitleText": "AI血缘图谱",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/upload/upload",
+			"style": {
+				"navigationBarTitleText": "上传新作品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/avatar/avatar",
+			"style": {
+				"navigationBarTitleText": "AI形象生成",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/settings/settings",
+			"style": {
+				"navigationBarTitleText": "系统设置",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/pk/pk",
+			"style": {
+				"navigationBarTitleText": "PK",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/ranking/ranking",
+			"style": {
+				"navigationBarTitleText": "CEO排行榜",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/parent/parent",
+			"style": {
+				"navigationBarTitleText": "家长",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/try/try",
+			"style": {
+				"navigationBarTitleText": "试一试",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "AI血缘",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F9FA"
+	},
+	"uniIdRouter": {}
+}
